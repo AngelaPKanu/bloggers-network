@@ -1,0 +1,27 @@
+body{
+    background-color: #b1b6cd;
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+
+.position-sticky {
+    top: 2rem;
+}
+
+div.scrollmenu {
+  background-color: inherit;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+
